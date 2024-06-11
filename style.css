@@ -1,6 +1,6 @@
 @charset "UTF-8"; 
 .title{
-   width: 100px;
+   width: 300%;
    right: 10%; 
    margin-top: 20px;
    display: block;
@@ -36,7 +36,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #000;
+    color: #222222;
 }
 
 /* -----------------------------------------------------------------------
